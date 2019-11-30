@@ -1,0 +1,38 @@
+data/sample_file_1.csv
+data/sample_file_2.csv
+data/sample_file_3.csv
+data/sample_file_4.csv
+data/sample_file_5.csv
+data/sample_file_6.csv
+data/sample_file_7.csv
+data/sample_file_8.csv
+data/sample_file_9.csv
+Pictures/~$Performance and graphs.xlsx
+Pictures/2560px-Mexican_Standoff.jpg
+Pictures/Apache_Spark_logo.jpg
+Pictures/Apache-Spark.jpg
+Pictures/dask.png
+Pictures/kaolas.png
+Pictures/modin.png
+Pictures/pandas_logo copy 2.jpg
+Pictures/pandas_logo copy.png
+Pictures/pandas_logo.png
+Pictures/Performance and graphs.xlsx
+Pictures/Screen Shot 2019-11-29 at 6.57.14 AM.png
+Pictures/Screen Shot 2019-11-29 at 7.01.30 AM.png
+Pictures/Screen Shot 2019-11-29 at 7.36.42 AM.png
+Pictures/Screen Shot 2019-11-29 at 7.41.33 AM.png
+Pictures/Screen Shot 2019-11-29 at 10.55.40 AM.png
+Pictures/Screen Shot 2019-11-29 at 12.32.44 PM.png
+Pictures/Screen Shot 2019-11-29 at 12.34.38 PM.png
+Pictures/standoff.jpg
+Pictures/.DS_Store
+dask-worker-space/global.lock
+dask-worker-space/purge.lock
+dask-worker-space/worker-yvmhwia5.dirlock
+dask-worker-space/worker-yvmhwia5/storage/parse-3a0aea2928bb3a33622c151ef502908e
+dask-worker-space/worker-yvmhwia5/storage/parse-5df001df120759877f13f21ce2389263
+dask-worker-space/worker-yvmhwia5/storage/parse-474bbbb4924f98aba1786381eb023ceb
+dask-worker-space/worker-yvmhwia5/storage/parse-561af7c5f9b160942c4b29756ca81caf
+data/.DS_Store
+.DS_Store
