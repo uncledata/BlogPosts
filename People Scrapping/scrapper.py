@@ -31,8 +31,8 @@ def main():
     legit_names = get_legit_names(names)
     api_key = ks.api_key
     cse_id = ks.cse_id
+    my_results = []
     for name in legit_names:
-        my_results = []
         result = google_query(f"linkedin.com {name}",
                                 api_key, 
                                 cse_id, 
