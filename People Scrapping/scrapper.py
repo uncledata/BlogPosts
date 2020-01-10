@@ -2,6 +2,7 @@ import os
 import sys
 import lib.keys_and_secrets as ks
 from googleapiclient.discovery import build   #Import the library
+import scrapper_v2 as sc2
 
 
 def get_legit_names(names):
@@ -32,15 +33,21 @@ def main():
     api_key = ks.api_key
     cse_id = ks.cse_id
     my_results = []
-    for name in legit_names:
-        result = google_query(f"linkedin.com {name}",
-                                api_key, 
-                                cse_id, 
-                                num = 1
-                                )[0]
+    with open("results.txt", "w+") as f:
+        f.write("name;Google Search title; LinkedIn Profile Link")
+        for name in legit_names:
+            title, link = sc2.get_results(name + " site:linkedin.com/in OR site:linkedin.com/pub -pub.dir")
+            print(name, title, link)
+            f.write(name + ";" + title + ";" + link)
+            f.write("\n")
+            """result = google_query(f"linkedin.com {name}",
+                                    api_key, 
+                                    cse_id, 
+                                    num = 1
+                                    )[0]
 
-        person = {"title" : result['title'], "link": result["link"], "name": name}
-        my_results.append(person)
+            person = {"title" : result['title'], "link": result["link"], "name": name}
+            """
     print (my_results)
 
 if __name__ == '__main__':
