@@ -118,3 +118,7 @@ runtimes_modin_ray.txt
 runtimes_pandas.txt
 runtimes_spark.txt
 People Scrapping/lib/keys_and_secrets.py
+People Scrapping/__pycache__/scrapper_v2.cpython-37.pyc
+People Scrapping/names.txt
+People Scrapping/results.txt
+People Scrapping/names.txt
