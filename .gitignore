@@ -122,3 +122,11 @@ People Scrapping/__pycache__/scrapper_v2.cpython-37.pyc
 People Scrapping/names.txt
 People Scrapping/results.txt
 People Scrapping/names.txt
+Regexp vs Explode/data.json
+Regexp vs Explode/output/app_data.parquet/_SUCCESS
+Regexp vs Explode/output/app_data.parquet/._SUCCESS.crc
+Regexp vs Explode/output/app_data.parquet/.part-00000-dc47b786-6be9-4e5f-9f76-0a5c27ce5ae0-c000.snappy.parquet.crc
+Regexp vs Explode/output/app_data.parquet/part-00000-dc47b786-6be9-4e5f-9f76-0a5c27ce5ae0-c000.snappy.parquet
+Regexp vs Explode/lib/json_generator_input.txt
+Regexp vs Explode/output/app_data.parquet/.part-00000-4720d0cb-d7d8-4021-9125-88c964dcb706-c000.snappy.parquet.crc
+Regexp vs Explode/output/app_data.parquet/part-00000-4720d0cb-d7d8-4021-9125-88c964dcb706-c000.snappy.parquet
