@@ -1,0 +1,121 @@
+[
+    {
+        "name": "MongoSinglePartitioner",
+        "config": {
+            "name": "AnyValue",
+            "value": "AnyValue"
+        }
+    },
+    {
+        "name": "MongoSamplePartitioner",
+        "config": {
+            "name": "partitionSizeMB",
+            "value": "128"
+        }
+    },
+    {
+        "name": "MongoSamplePartitioner",
+        "config": {
+            "name": "partitionSizeMB",
+            "value": "64"
+        }
+    },
+    {
+        "name": "MongoSamplePartitioner",
+        "config": {
+            "name": "partitionSizeMB",
+            "value": "32"
+        }
+    },
+    {
+        "name": "MongoPaginateBySizePartitioner",
+        "config": {
+            "name": "partitionSizeMB",
+            "value": "128"
+        }
+    },
+    {
+        "name": "MongoPaginateBySizePartitioner",
+        "config": {
+            "name": "partitionSizeMB",
+            "value": "64"
+        }
+    },
+    {
+        "name": "MongoPaginateBySizePartitioner",
+        "config": {
+            "name": "partitionSizeMB",
+            "value": "32"
+        }
+    },
+    {
+        "name": "MongoPaginateByCountPartitioner",
+        "config": {
+            "name": "numberOfPartitions",
+            "value": "1"
+        }
+    },
+    {
+        "name": "MongoPaginateByCountPartitioner",
+        "config": {
+            "name": "numberOfPartitions",
+            "value": "5"
+        }
+    },
+    {
+        "name": "MongoPaginateByCountPartitioner",
+        "config": {
+            "name": "numberOfPartitions",
+            "value": "10"
+        }
+    },
+    {
+        "name": "MongoPaginateByCountPartitioner",
+        "config": {
+            "name": "numberOfPartitions",
+            "value": "15"
+        }
+    },
+    {
+        "name": "MongoPaginateByCountPartitioner",
+        "config": {
+            "name": "numberOfPartitions",
+            "value": "20"
+        }
+    },
+    {
+        "name": "MongoPaginateByCountPartitioner",
+        "config": {
+            "name": "numberOfPartitions",
+            "value": "25"
+        }
+    },
+    {
+        "name": "MongoPaginateByCountPartitioner",
+        "config": {
+            "name": "numberOfPartitions",
+            "value": "30"
+        }
+    },
+    {
+        "name": "MongoPaginateByCountPartitioner",
+        "config": {
+            "name": "numberOfPartitions",
+            "value": "40"
+        }
+    },
+    {
+        "name": "MongoPaginateByCountPartitioner",
+        "config": {
+            "name": "numberOfPartitions",
+            "value": "35"
+        }
+    },
+    {
+        "name": "MongoPaginateByCountPartitioner",
+        "config": {
+            "name": "numberOfPartitions",
+            "value": "45"
+        }
+    }
+]
