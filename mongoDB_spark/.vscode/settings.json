@@ -1,0 +1,5 @@
+{
+    "python.formatting.provider": "black",
+    "python.autoComplete.addBrackets": true,
+    "python.formatting.autopep8Path": ""
+}
