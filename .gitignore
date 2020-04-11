@@ -132,3 +132,4 @@ Regexp vs Explode/output/app_data.parquet/.part-00000-4720d0cb-d7d8-4021-9125-88
 Regexp vs Explode/output/app_data.parquet/part-00000-4720d0cb-d7d8-4021-9125-88c964dcb706-c000.snappy.parquet
 mongoDB_spark/.vscode/settings.json
 mongoDB_spark/data
+Spark Performance/data/
