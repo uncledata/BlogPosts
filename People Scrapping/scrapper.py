@@ -14,7 +14,6 @@ def get_legit_names(names):
     return legit
 
 
-
 def google_query(query, api_key, cse_id, **kwargs):
     query_service = build("customsearch", 
                           "v1", 
